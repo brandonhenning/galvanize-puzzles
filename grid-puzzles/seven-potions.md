@@ -16,3 +16,7 @@
 * Neither dwarf nor giant holds death in their insides;
 * Fourth, the second left and the second on the right
 * Are twins once you taste them, though different at first sight.
+
+---
+
+Submit a link to a document showing your structured approach to solving this problem.

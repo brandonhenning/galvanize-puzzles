@@ -19,3 +19,7 @@ There is a row of five different color houses. Each house is occupied by a man o
 * The man who smokes Blends has a neighbour who drinks water.
 
 Who has fish at home?
+
+---
+
+Submit a link to a document showing your structured approach to solving this problem.

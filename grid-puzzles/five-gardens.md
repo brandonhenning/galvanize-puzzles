@@ -25,3 +25,7 @@ Five friends have their gardens next to one another, where they grow three kinds
 * Paul has exactly three kinds of vegetable.
 
 Who has which garden and what is grown where?
+
+---
+
+Submit a link to a document showing your structured approach to solving this problem.

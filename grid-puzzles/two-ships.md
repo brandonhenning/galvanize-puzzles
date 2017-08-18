@@ -18,3 +18,7 @@ There are 5 ships in a port.
 * The ship carrying corn is anchored next to the ship carrying rice.
 * The ship to Hamburg leaves at six.
 * Which ship goes to Port Said? Which ship carries tea?
+
+---
+
+Submit a link to a document showing your structured approach to solving this problem.

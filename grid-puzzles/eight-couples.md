@@ -26,4 +26,8 @@ Eight married couples meet to lend one another some books. Couples have the same
 * Mr and Mrs Swain work as Shoppers.
 * "The Modern Comedy" was brought by a couple driving a Skoda.
 
-Is it a problem to find out everything about everyone from this information?
+Can you find out everything about everyone from this information?
+
+---
+
+Submit a link to a document showing your structured approach to solving this problem.
