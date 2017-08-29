@@ -30,22 +30,22 @@ Before beginning this puzzle, I identified the three inputs as name, superhero a
 - I will run through the clues one at a time and repeat that process until I have a solution.
 
 ### 3. Carry out the Plan
-- First clue: Bryan likes Spiderman
-  ![Results from last clue via Polya](/example-images/step1.png)
+- First clue: Bryan likes Spiderman  
+    ![Results from last clue via Polya](/example-images/step1.png)
 - Second clue: Tony doesn't like Superman
   - This means that Tony must like Batman
-  - If Tony likes Batman, and Bryan likes Spiderman then Sean must like Superman
-  ![Results from last clue via Polya](/example-images/step2.png)
-  ![Results from last clue via Polya](/example-images/step3.png)
+  - If Tony likes Batman, and Bryan likes Spiderman then Sean must like Superman  
+    ![Results from last clue via Polya](/example-images/step2.png)  
+    ![Results from last clue via Polya](/example-images/step3.png)
 - Third Clue: The youngest kid likes Spiderman
-  - Bryan likes Spiderman and is therefore 6 years old
-  ![Results from last clue via Polya](/example-images/step4.png)
+  - Bryan likes Spiderman and is therefore 6 years old  
+    ![Results from last clue via Polya](/example-images/step4.png)
 - Fourth Clue: The kid who likes Superman is 8
   - Sean likes Superman and is therefore 8
-  - If Sean is 8 and Bryan is 6, then Tony is 10
-  ![Results from last clue via Polya](/example-images/step5.png)
-- Completed Puzzle:
-  ![Results from last clue via Polya](/example-images/step6.png)
+  - If Sean is 8 and Bryan is 6, then Tony is 10  
+    ![Results from last clue via Polya](/example-images/step5.png)
+- Completed Puzzle:  
+    ![Results from last clue via Polya](/example-images/step6.png)
 
 ### 4. Look Back
 - I am glad that I reflected on how solve-able this puzzle was before beginning, I started confident that I could be successful
