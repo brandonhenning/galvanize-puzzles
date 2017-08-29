@@ -4,7 +4,8 @@ Sorted by type. Complete 5 and submit your solutions for Mastery Tracking.
 
 ## How to solve:
 
-## Apply Polya's Techniques
+### Apply Polya's Techniques
+[Polya's Problem Solving Techniques]([Polya's Problem Solving Techniques-)
 
 ### Understand the Problem
 * Identify Inputs and Outputs
@@ -21,4 +22,4 @@ Sorted by type. Complete 5 and submit your solutions for Mastery Tracking.
   * DRY
   * SOLID
 
-### See exemplar solutions in the Examples folder
+### See an exemplar solution in the example.md file
