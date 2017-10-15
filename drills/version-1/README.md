@@ -1,4 +1,4 @@
-## Eight Couple
+## Eight Couples
 
 Eight married couples meet to lend one another some books. Couples have the same surname, employment and car. Each couple has a favorite color. Furthermore we know the following facts:
 
